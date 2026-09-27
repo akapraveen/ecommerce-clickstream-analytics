@@ -1,0 +1,1967 @@
+{
+ "overview": {
+  "events": 109950743,
+  "users": 5316649,
+  "sessions": 23016650,
+  "products": 206876,
+  "brands": 4303,
+  "views": 104335509,
+  "carts": 3955446,
+  "purchases": 1659788,
+  "revenue": 505152392.769967,
+  "first_event": "2019-10-01 00:00:00",
+  "last_event": "2019-11-30 23:59:59"
+ },
+ "daily": [
+  {
+   "day": "2019-10-01",
+   "views": 1208280,
+   "purchases": 19307,
+   "revenue": 6275964.01,
+   "active_users": 190188
+  },
+  {
+   "day": "2019-10-02",
+   "views": 1154591,
+   "purchases": 19469,
+   "revenue": 6213628.53,
+   "active_users": 184965
+  },
+  {
+   "day": "2019-10-03",
+   "views": 1088725,
+   "purchases": 19255,
+   "revenue": 6233782.98,
+   "active_users": 170668
+  },
+  {
+   "day": "2019-10-04",
+   "views": 1346320,
+   "purchases": 27041,
+   "revenue": 8623684.47,
+   "active_users": 209410
+  },
+  {
+   "day": "2019-10-05",
+   "views": 1271348,
+   "purchases": 23494,
+   "revenue": 7341596.91,
+   "active_users": 194958
+  },
+  {
+   "day": "2019-10-06",
+   "views": 1264062,
+   "purchases": 22171,
+   "revenue": 6737660.78,
+   "active_users": 193210
+  },
+  {
+   "day": "2019-10-07",
+   "views": 1161101,
+   "purchases": 21378,
+   "revenue": 6348189.06,
+   "active_users": 186951
+  },
+  {
+   "day": "2019-10-08",
+   "views": 1329119,
+   "purchases": 23072,
+   "revenue": 6819832.28,
+   "active_users": 221204
+  },
+  {
+   "day": "2019-10-09",
+   "views": 1306363,
+   "purchases": 22748,
+   "revenue": 6855511.13,
+   "active_users": 214140
+  },
+  {
+   "day": "2019-10-10",
+   "views": 1243087,
+   "purchases": 21993,
+   "revenue": 6665600.86,
+   "active_users": 205321
+  },
+  {
+   "day": "2019-10-11",
+   "views": 1447669,
+   "purchases": 26224,
+   "revenue": 7716208.55,
+   "active_users": 230533
+  },
+  {
+   "day": "2019-10-12",
+   "views": 1433832,
+   "purchases": 25373,
+   "revenue": 7307691.57,
+   "active_users": 208355
+  },
+  {
+   "day": "2019-10-13",
+   "views": 1584677,
+   "purchases": 29561,
+   "revenue": 8457606.49,
+   "active_users": 225942
+  },
+  {
+   "day": "2019-10-14",
+   "views": 1381439,
+   "purchases": 28405,
+   "revenue": 9356691.65,
+   "active_users": 209089
+  },
+  {
+   "day": "2019-10-15",
+   "views": 1466305,
+   "purchases": 26372,
+   "revenue": 8653065.29,
+   "active_users": 230135
+  },
+  {
+   "day": "2019-10-16",
+   "views": 1445717,
+   "purchases": 31394,
+   "revenue": 9747239.24,
+   "active_users": 230199
+  },
+  {
+   "day": "2019-10-17",
+   "views": 1338311,
+   "purchases": 28318,
+   "revenue": 9026143.14,
+   "active_users": 208477
+  },
+  {
+   "day": "2019-10-18",
+   "views": 1415805,
+   "purchases": 25850,
+   "revenue": 8155785.13,
+   "active_users": 229463
+  },
+  {
+   "day": "2019-10-19",
+   "views": 1385171,
+   "purchases": 24657,
+   "revenue": 7562479.36,
+   "active_users": 217920
+  },
+  {
+   "day": "2019-10-20",
+   "views": 1444360,
+   "purchases": 25098,
+   "revenue": 7515713.04,
+   "active_users": 231849
+  },
+  {
+   "day": "2019-10-21",
+   "views": 1343574,
+   "purchases": 25167,
+   "revenue": 7862635.0,
+   "active_users": 225269
+  },
+  {
+   "day": "2019-10-22",
+   "views": 1354534,
+   "purchases": 25385,
+   "revenue": 7914693.04,
+   "active_users": 223384
+  },
+  {
+   "day": "2019-10-23",
+   "views": 1319988,
+   "purchases": 24731,
+   "revenue": 7615371.54,
+   "active_users": 219100
+  },
+  {
+   "day": "2019-10-24",
+   "views": 1256779,
+   "purchases": 23999,
+   "revenue": 7470344.6,
+   "active_users": 206937
+  },
+  {
+   "day": "2019-10-25",
+   "views": 1374584,
+   "purchases": 23929,
+   "revenue": 7248617.98,
+   "active_users": 223258
+  },
+  {
+   "day": "2019-10-26",
+   "views": 1289839,
+   "purchases": 22653,
+   "revenue": 6917602.84,
+   "active_users": 202172
+  },
+  {
+   "day": "2019-10-27",
+   "views": 1330894,
+   "purchases": 23403,
+   "revenue": 7198460.82,
+   "active_users": 201359
+  },
+  {
+   "day": "2019-10-28",
+   "views": 1221930,
+   "purchases": 21112,
+   "revenue": 6591728.24,
+   "active_users": 195563
+  },
+  {
+   "day": "2019-10-29",
+   "views": 1190081,
+   "purchases": 20374,
+   "revenue": 6433438.43,
+   "active_users": 193168
+  },
+  {
+   "day": "2019-10-30",
+   "views": 1172332,
+   "purchases": 20817,
+   "revenue": 6634069.51,
+   "active_users": 191965
+  },
+  {
+   "day": "2019-10-31",
+   "views": 1208582,
+   "purchases": 20099,
+   "revenue": 6456465.8,
+   "active_users": 198571
+  },
+  {
+   "day": "2019-11-01",
+   "views": 1403991,
+   "purchases": 22458,
+   "revenue": 6949415.03,
+   "active_users": 223108
+  },
+  {
+   "day": "2019-11-02",
+   "views": 1514324,
+   "purchases": 21864,
+   "revenue": 6389808.37,
+   "active_users": 234685
+  },
+  {
+   "day": "2019-11-03",
+   "views": 1525418,
+   "purchases": 22145,
+   "revenue": 6656920.09,
+   "active_users": 240187
+  },
+  {
+   "day": "2019-11-04",
+   "views": 1744279,
+   "purchases": 26889,
+   "revenue": 8033899.65,
+   "active_users": 275612
+  },
+  {
+   "day": "2019-11-05",
+   "views": 1673138,
+   "purchases": 24875,
+   "revenue": 7250120.41,
+   "active_users": 262338
+  },
+  {
+   "day": "2019-11-06",
+   "views": 1649832,
+   "purchases": 25319,
+   "revenue": 7397760.63,
+   "active_users": 256887
+  },
+  {
+   "day": "2019-11-07",
+   "views": 1752524,
+   "purchases": 24863,
+   "revenue": 7062018.53,
+   "active_users": 278988
+  },
+  {
+   "day": "2019-11-08",
+   "views": 1793319,
+   "purchases": 25714,
+   "revenue": 7742039.59,
+   "active_users": 286053
+  },
+  {
+   "day": "2019-11-09",
+   "views": 1785006,
+   "purchases": 22768,
+   "revenue": 6646804.3,
+   "active_users": 268643
+  },
+  {
+   "day": "2019-11-10",
+   "views": 1846107,
+   "purchases": 22878,
+   "revenue": 6633475.29,
+   "active_users": 276198
+  },
+  {
+   "day": "2019-11-11",
+   "views": 1909295,
+   "purchases": 24931,
+   "revenue": 7255189.94,
+   "active_users": 292400
+  },
+  {
+   "day": "2019-11-12",
+   "views": 1895133,
+   "purchases": 22725,
+   "revenue": 6782115.2,
+   "active_users": 285994
+  },
+  {
+   "day": "2019-11-13",
+   "views": 1924967,
+   "purchases": 22548,
+   "revenue": 6812879.77,
+   "active_users": 285408
+  },
+  {
+   "day": "2019-11-14",
+   "views": 2877130,
+   "purchases": 22124,
+   "revenue": 6949925.13,
+   "active_users": 308842
+  },
+  {
+   "day": "2019-11-15",
+   "views": 5737111,
+   "purchases": 0,
+   "revenue": null,
+   "active_users": 379786
+  },
+  {
+   "day": "2019-11-16",
+   "views": 6027932,
+   "purchases": 68247,
+   "revenue": 23442969.87,
+   "active_users": 487327
+  },
+  {
+   "day": "2019-11-17",
+   "views": 5783241,
+   "purchases": 185195,
+   "revenue": 57774481.920002,
+   "active_users": 487501
+  },
+  {
+   "day": "2019-11-18",
+   "views": 1909778,
+   "purchases": 28537,
+   "revenue": 8251007.9,
+   "active_users": 319537
+  },
+  {
+   "day": "2019-11-19",
+   "views": 1631029,
+   "purchases": 24967,
+   "revenue": 7291407.76,
+   "active_users": 290798
+  },
+  {
+   "day": "2019-11-20",
+   "views": 1602735,
+   "purchases": 24947,
+   "revenue": 7089210.27,
+   "active_users": 291900
+  },
+  {
+   "day": "2019-11-21",
+   "views": 1576489,
+   "purchases": 25266,
+   "revenue": 6970110.37,
+   "active_users": 287079
+  },
+  {
+   "day": "2019-11-22",
+   "views": 1473840,
+   "purchases": 24187,
+   "revenue": 6990846.23,
+   "active_users": 249401
+  },
+  {
+   "day": "2019-11-23",
+   "views": 1474657,
+   "purchases": 22243,
+   "revenue": 6339110.07,
+   "active_users": 249362
+  },
+  {
+   "day": "2019-11-24",
+   "views": 1500493,
+   "purchases": 23163,
+   "revenue": 6470750.9,
+   "active_users": 240526
+  },
+  {
+   "day": "2019-11-25",
+   "views": 1497322,
+   "purchases": 24827,
+   "revenue": 7053766.6,
+   "active_users": 257613
+  },
+  {
+   "day": "2019-11-26",
+   "views": 1559008,
+   "purchases": 24226,
+   "revenue": 6893392.91,
+   "active_users": 252527
+  },
+  {
+   "day": "2019-11-27",
+   "views": 1550616,
+   "purchases": 24443,
+   "revenue": 7161341.26,
+   "active_users": 256546
+  },
+  {
+   "day": "2019-11-28",
+   "views": 1562532,
+   "purchases": 24305,
+   "revenue": 7163831.66,
+   "active_users": 253979
+  },
+  {
+   "day": "2019-11-29",
+   "views": 1729925,
+   "purchases": 32107,
+   "revenue": 9635318.38,
+   "active_users": 286699
+  },
+  {
+   "day": "2019-11-30",
+   "views": 1644939,
+   "purchases": 28178,
+   "revenue": 8104972.47,
+   "active_users": 255497
+  }
+ ],
+ "funnel": {
+  "sessions": 23016650,
+  "with_view": 23005603,
+  "with_cart": 2316432,
+  "with_purchase": 1402758,
+  "abandoned_carts": 1376212,
+  "cart_abandonment_rate": 0.594109
+ },
+ "funnel_by_category": [
+  {
+   "category": "electronics",
+   "sessions": 9534943,
+   "cart_rate": 0.134418,
+   "purchase_rate": 0.080299,
+   "cart_to_purchase": 0.597382
+  },
+  {
+   "category": "",
+   "sessions": 7264205,
+   "cart_rate": 0.076139,
+   "purchase_rate": 0.048235,
+   "cart_to_purchase": 0.633514
+  },
+  {
+   "category": "appliances",
+   "sessions": 2295991,
+   "cart_rate": 0.110405,
+   "purchase_rate": 0.065023,
+   "cart_to_purchase": 0.588953
+  },
+  {
+   "category": "computers",
+   "sessions": 1242004,
+   "cart_rate": 0.072314,
+   "purchase_rate": 0.042157,
+   "cart_to_purchase": 0.582971
+  },
+  {
+   "category": "apparel",
+   "sessions": 847231,
+   "cart_rate": 0.03781,
+   "purchase_rate": 0.022176,
+   "cart_to_purchase": 0.586502
+  },
+  {
+   "category": "furniture",
+   "sessions": 591546,
+   "cart_rate": 0.045102,
+   "purchase_rate": 0.02852,
+   "cart_to_purchase": 0.632346
+  },
+  {
+   "category": "auto",
+   "sessions": 421921,
+   "cart_rate": 0.06788,
+   "purchase_rate": 0.044376,
+   "cart_to_purchase": 0.653736
+  },
+  {
+   "category": "kids",
+   "sessions": 322030,
+   "cart_rate": 0.044049,
+   "purchase_rate": 0.030997,
+   "cart_to_purchase": 0.703701
+  },
+  {
+   "category": "construction",
+   "sessions": 297703,
+   "cart_rate": 0.087124,
+   "purchase_rate": 0.047648,
+   "cart_to_purchase": 0.546902
+  }
+ ],
+ "hour_weekday": [
+  {
+   "dow": 0,
+   "hour": 0,
+   "purchases": 641,
+   "purchases_per_view": 0.006455
+  },
+  {
+   "dow": 0,
+   "hour": 1,
+   "purchases": 1053,
+   "purchases_per_view": 0.006278
+  },
+  {
+   "dow": 0,
+   "hour": 2,
+   "purchases": 2481,
+   "purchases_per_view": 0.007181
+  },
+  {
+   "dow": 0,
+   "hour": 3,
+   "purchases": 7266,
+   "purchases_per_view": 0.01266
+  },
+  {
+   "dow": 0,
+   "hour": 4,
+   "purchases": 17391,
+   "purchases_per_view": 0.022183
+  },
+  {
+   "dow": 0,
+   "hour": 5,
+   "purchases": 21832,
+   "purchases_per_view": 0.024739
+  },
+  {
+   "dow": 0,
+   "hour": 6,
+   "purchases": 23669,
+   "purchases_per_view": 0.026369
+  },
+  {
+   "dow": 0,
+   "hour": 7,
+   "purchases": 24132,
+   "purchases_per_view": 0.026612
+  },
+  {
+   "dow": 0,
+   "hour": 8,
+   "purchases": 24522,
+   "purchases_per_view": 0.027315
+  },
+  {
+   "dow": 0,
+   "hour": 9,
+   "purchases": 24239,
+   "purchases_per_view": 0.027535
+  },
+  {
+   "dow": 0,
+   "hour": 10,
+   "purchases": 25451,
+   "purchases_per_view": 0.026886
+  },
+  {
+   "dow": 0,
+   "hour": 11,
+   "purchases": 25752,
+   "purchases_per_view": 0.02637
+  },
+  {
+   "dow": 0,
+   "hour": 12,
+   "purchases": 24288,
+   "purchases_per_view": 0.024849
+  },
+  {
+   "dow": 0,
+   "hour": 13,
+   "purchases": 23224,
+   "purchases_per_view": 0.022959
+  },
+  {
+   "dow": 0,
+   "hour": 14,
+   "purchases": 22335,
+   "purchases_per_view": 0.020729
+  },
+  {
+   "dow": 0,
+   "hour": 15,
+   "purchases": 21762,
+   "purchases_per_view": 0.019912
+  },
+  {
+   "dow": 0,
+   "hour": 16,
+   "purchases": 21293,
+   "purchases_per_view": 0.019544
+  },
+  {
+   "dow": 0,
+   "hour": 17,
+   "purchases": 23371,
+   "purchases_per_view": 0.02117
+  },
+  {
+   "dow": 0,
+   "hour": 18,
+   "purchases": 6308,
+   "purchases_per_view": 0.010601
+  },
+  {
+   "dow": 0,
+   "hour": 19,
+   "purchases": 5512,
+   "purchases_per_view": 0.012563
+  },
+  {
+   "dow": 0,
+   "hour": 20,
+   "purchases": 3048,
+   "purchases_per_view": 0.012435
+  },
+  {
+   "dow": 0,
+   "hour": 21,
+   "purchases": 2038,
+   "purchases_per_view": 0.014583
+  },
+  {
+   "dow": 0,
+   "hour": 22,
+   "purchases": 1166,
+   "purchases_per_view": 0.014034
+  },
+  {
+   "dow": 0,
+   "hour": 23,
+   "purchases": 840,
+   "purchases_per_view": 0.012717
+  },
+  {
+   "dow": 1,
+   "hour": 0,
+   "purchases": 778,
+   "purchases_per_view": 0.00868
+  },
+  {
+   "dow": 1,
+   "hour": 1,
+   "purchases": 1549,
+   "purchases_per_view": 0.008935
+  },
+  {
+   "dow": 1,
+   "hour": 2,
+   "purchases": 3612,
+   "purchases_per_view": 0.011935
+  },
+  {
+   "dow": 1,
+   "hour": 3,
+   "purchases": 7861,
+   "purchases_per_view": 0.017711
+  },
+  {
+   "dow": 1,
+   "hour": 4,
+   "purchases": 11281,
+   "purchases_per_view": 0.020624
+  },
+  {
+   "dow": 1,
+   "hour": 5,
+   "purchases": 13170,
+   "purchases_per_view": 0.021432
+  },
+  {
+   "dow": 1,
+   "hour": 6,
+   "purchases": 13853,
+   "purchases_per_view": 0.021653
+  },
+  {
+   "dow": 1,
+   "hour": 7,
+   "purchases": 13576,
+   "purchases_per_view": 0.021969
+  },
+  {
+   "dow": 1,
+   "hour": 8,
+   "purchases": 14442,
+   "purchases_per_view": 0.02289
+  },
+  {
+   "dow": 1,
+   "hour": 9,
+   "purchases": 15149,
+   "purchases_per_view": 0.022834
+  },
+  {
+   "dow": 1,
+   "hour": 10,
+   "purchases": 14364,
+   "purchases_per_view": 0.022606
+  },
+  {
+   "dow": 1,
+   "hour": 11,
+   "purchases": 12797,
+   "purchases_per_view": 0.021292
+  },
+  {
+   "dow": 1,
+   "hour": 12,
+   "purchases": 11311,
+   "purchases_per_view": 0.018681
+  },
+  {
+   "dow": 1,
+   "hour": 13,
+   "purchases": 10808,
+   "purchases_per_view": 0.01595
+  },
+  {
+   "dow": 1,
+   "hour": 14,
+   "purchases": 10546,
+   "purchases_per_view": 0.013086
+  },
+  {
+   "dow": 1,
+   "hour": 15,
+   "purchases": 10635,
+   "purchases_per_view": 0.011703
+  },
+  {
+   "dow": 1,
+   "hour": 16,
+   "purchases": 9995,
+   "purchases_per_view": 0.010899
+  },
+  {
+   "dow": 1,
+   "hour": 17,
+   "purchases": 8396,
+   "purchases_per_view": 0.010165
+  },
+  {
+   "dow": 1,
+   "hour": 18,
+   "purchases": 6849,
+   "purchases_per_view": 0.011016
+  },
+  {
+   "dow": 1,
+   "hour": 19,
+   "purchases": 4547,
+   "purchases_per_view": 0.011763
+  },
+  {
+   "dow": 1,
+   "hour": 20,
+   "purchases": 2452,
+   "purchases_per_view": 0.012076
+  },
+  {
+   "dow": 1,
+   "hour": 21,
+   "purchases": 1611,
+   "purchases_per_view": 0.013609
+  },
+  {
+   "dow": 1,
+   "hour": 22,
+   "purchases": 999,
+   "purchases_per_view": 0.012948
+  },
+  {
+   "dow": 1,
+   "hour": 23,
+   "purchases": 665,
+   "purchases_per_view": 0.010772
+  },
+  {
+   "dow": 2,
+   "hour": 0,
+   "purchases": 811,
+   "purchases_per_view": 0.00954
+  },
+  {
+   "dow": 2,
+   "hour": 1,
+   "purchases": 1337,
+   "purchases_per_view": 0.009068
+  },
+  {
+   "dow": 2,
+   "hour": 2,
+   "purchases": 3958,
+   "purchases_per_view": 0.012683
+  },
+  {
+   "dow": 2,
+   "hour": 3,
+   "purchases": 8401,
+   "purchases_per_view": 0.017986
+  },
+  {
+   "dow": 2,
+   "hour": 4,
+   "purchases": 11558,
+   "purchases_per_view": 0.020141
+  },
+  {
+   "dow": 2,
+   "hour": 5,
+   "purchases": 13840,
+   "purchases_per_view": 0.021149
+  },
+  {
+   "dow": 2,
+   "hour": 6,
+   "purchases": 14649,
+   "purchases_per_view": 0.0208
+  },
+  {
+   "dow": 2,
+   "hour": 7,
+   "purchases": 15436,
+   "purchases_per_view": 0.021204
+  },
+  {
+   "dow": 2,
+   "hour": 8,
+   "purchases": 16006,
+   "purchases_per_view": 0.021272
+  },
+  {
+   "dow": 2,
+   "hour": 9,
+   "purchases": 15563,
+   "purchases_per_view": 0.021061
+  },
+  {
+   "dow": 2,
+   "hour": 10,
+   "purchases": 14169,
+   "purchases_per_view": 0.020397
+  },
+  {
+   "dow": 2,
+   "hour": 11,
+   "purchases": 12848,
+   "purchases_per_view": 0.01884
+  },
+  {
+   "dow": 2,
+   "hour": 12,
+   "purchases": 11422,
+   "purchases_per_view": 0.016887
+  },
+  {
+   "dow": 2,
+   "hour": 13,
+   "purchases": 10945,
+   "purchases_per_view": 0.014289
+  },
+  {
+   "dow": 2,
+   "hour": 14,
+   "purchases": 10854,
+   "purchases_per_view": 0.012304
+  },
+  {
+   "dow": 2,
+   "hour": 15,
+   "purchases": 11205,
+   "purchases_per_view": 0.011503
+  },
+  {
+   "dow": 2,
+   "hour": 16,
+   "purchases": 10768,
+   "purchases_per_view": 0.01076
+  },
+  {
+   "dow": 2,
+   "hour": 17,
+   "purchases": 9020,
+   "purchases_per_view": 0.010185
+  },
+  {
+   "dow": 2,
+   "hour": 18,
+   "purchases": 7167,
+   "purchases_per_view": 0.010709
+  },
+  {
+   "dow": 2,
+   "hour": 19,
+   "purchases": 4838,
+   "purchases_per_view": 0.011526
+  },
+  {
+   "dow": 2,
+   "hour": 20,
+   "purchases": 2802,
+   "purchases_per_view": 0.01286
+  },
+  {
+   "dow": 2,
+   "hour": 21,
+   "purchases": 1788,
+   "purchases_per_view": 0.013868
+  },
+  {
+   "dow": 2,
+   "hour": 22,
+   "purchases": 1081,
+   "purchases_per_view": 0.013631
+  },
+  {
+   "dow": 2,
+   "hour": 23,
+   "purchases": 837,
+   "purchases_per_view": 0.012593
+  },
+  {
+   "dow": 3,
+   "hour": 0,
+   "purchases": 789,
+   "purchases_per_view": 0.009095
+  },
+  {
+   "dow": 3,
+   "hour": 1,
+   "purchases": 1509,
+   "purchases_per_view": 0.009452
+  },
+  {
+   "dow": 3,
+   "hour": 2,
+   "purchases": 3869,
+   "purchases_per_view": 0.012056
+  },
+  {
+   "dow": 3,
+   "hour": 3,
+   "purchases": 8412,
+   "purchases_per_view": 0.018259
+  },
+  {
+   "dow": 3,
+   "hour": 4,
+   "purchases": 11516,
+   "purchases_per_view": 0.019928
+  },
+  {
+   "dow": 3,
+   "hour": 5,
+   "purchases": 13635,
+   "purchases_per_view": 0.020922
+  },
+  {
+   "dow": 3,
+   "hour": 6,
+   "purchases": 14964,
+   "purchases_per_view": 0.021751
+  },
+  {
+   "dow": 3,
+   "hour": 7,
+   "purchases": 15150,
+   "purchases_per_view": 0.021594
+  },
+  {
+   "dow": 3,
+   "hour": 8,
+   "purchases": 15519,
+   "purchases_per_view": 0.021363
+  },
+  {
+   "dow": 3,
+   "hour": 9,
+   "purchases": 16179,
+   "purchases_per_view": 0.022582
+  },
+  {
+   "dow": 3,
+   "hour": 10,
+   "purchases": 15102,
+   "purchases_per_view": 0.021676
+  },
+  {
+   "dow": 3,
+   "hour": 11,
+   "purchases": 13511,
+   "purchases_per_view": 0.020419
+  },
+  {
+   "dow": 3,
+   "hour": 12,
+   "purchases": 12614,
+   "purchases_per_view": 0.01908
+  },
+  {
+   "dow": 3,
+   "hour": 13,
+   "purchases": 11873,
+   "purchases_per_view": 0.01584
+  },
+  {
+   "dow": 3,
+   "hour": 14,
+   "purchases": 11519,
+   "purchases_per_view": 0.013477
+  },
+  {
+   "dow": 3,
+   "hour": 15,
+   "purchases": 11497,
+   "purchases_per_view": 0.011935
+  },
+  {
+   "dow": 3,
+   "hour": 16,
+   "purchases": 10705,
+   "purchases_per_view": 0.010894
+  },
+  {
+   "dow": 3,
+   "hour": 17,
+   "purchases": 9333,
+   "purchases_per_view": 0.01058
+  },
+  {
+   "dow": 3,
+   "hour": 18,
+   "purchases": 6984,
+   "purchases_per_view": 0.010505
+  },
+  {
+   "dow": 3,
+   "hour": 19,
+   "purchases": 5055,
+   "purchases_per_view": 0.012238
+  },
+  {
+   "dow": 3,
+   "hour": 20,
+   "purchases": 2903,
+   "purchases_per_view": 0.012808
+  },
+  {
+   "dow": 3,
+   "hour": 21,
+   "purchases": 1757,
+   "purchases_per_view": 0.013431
+  },
+  {
+   "dow": 3,
+   "hour": 22,
+   "purchases": 1285,
+   "purchases_per_view": 0.015302
+  },
+  {
+   "dow": 3,
+   "hour": 23,
+   "purchases": 736,
+   "purchases_per_view": 0.011182
+  },
+  {
+   "dow": 4,
+   "hour": 0,
+   "purchases": 1000,
+   "purchases_per_view": 0.010115
+  },
+  {
+   "dow": 4,
+   "hour": 1,
+   "purchases": 1424,
+   "purchases_per_view": 0.009446
+  },
+  {
+   "dow": 4,
+   "hour": 2,
+   "purchases": 4110,
+   "purchases_per_view": 0.012625
+  },
+  {
+   "dow": 4,
+   "hour": 3,
+   "purchases": 8563,
+   "purchases_per_view": 0.018206
+  },
+  {
+   "dow": 4,
+   "hour": 4,
+   "purchases": 11631,
+   "purchases_per_view": 0.019847
+  },
+  {
+   "dow": 4,
+   "hour": 5,
+   "purchases": 13120,
+   "purchases_per_view": 0.021181
+  },
+  {
+   "dow": 4,
+   "hour": 6,
+   "purchases": 14777,
+   "purchases_per_view": 0.021756
+  },
+  {
+   "dow": 4,
+   "hour": 7,
+   "purchases": 15025,
+   "purchases_per_view": 0.021435
+  },
+  {
+   "dow": 4,
+   "hour": 8,
+   "purchases": 15730,
+   "purchases_per_view": 0.021394
+  },
+  {
+   "dow": 4,
+   "hour": 9,
+   "purchases": 15292,
+   "purchases_per_view": 0.021608
+  },
+  {
+   "dow": 4,
+   "hour": 10,
+   "purchases": 14051,
+   "purchases_per_view": 0.020562
+  },
+  {
+   "dow": 4,
+   "hour": 11,
+   "purchases": 12880,
+   "purchases_per_view": 0.019519
+  },
+  {
+   "dow": 4,
+   "hour": 12,
+   "purchases": 11124,
+   "purchases_per_view": 0.016912
+  },
+  {
+   "dow": 4,
+   "hour": 13,
+   "purchases": 10868,
+   "purchases_per_view": 0.014202
+  },
+  {
+   "dow": 4,
+   "hour": 14,
+   "purchases": 11305,
+   "purchases_per_view": 0.012093
+  },
+  {
+   "dow": 4,
+   "hour": 15,
+   "purchases": 10859,
+   "purchases_per_view": 0.011557
+  },
+  {
+   "dow": 4,
+   "hour": 16,
+   "purchases": 10434,
+   "purchases_per_view": 0.010601
+  },
+  {
+   "dow": 4,
+   "hour": 17,
+   "purchases": 9437,
+   "purchases_per_view": 0.009388
+  },
+  {
+   "dow": 4,
+   "hour": 18,
+   "purchases": 7363,
+   "purchases_per_view": 0.00938
+  },
+  {
+   "dow": 4,
+   "hour": 19,
+   "purchases": 4706,
+   "purchases_per_view": 0.008276
+  },
+  {
+   "dow": 4,
+   "hour": 20,
+   "purchases": 2753,
+   "purchases_per_view": 0.007395
+  },
+  {
+   "dow": 4,
+   "hour": 21,
+   "purchases": 1777,
+   "purchases_per_view": 0.007785
+  },
+  {
+   "dow": 4,
+   "hour": 22,
+   "purchases": 1171,
+   "purchases_per_view": 0.008489
+  },
+  {
+   "dow": 4,
+   "hour": 23,
+   "purchases": 822,
+   "purchases_per_view": 0.007627
+  },
+  {
+   "dow": 5,
+   "hour": 0,
+   "purchases": 929,
+   "purchases_per_view": 0.005736
+  },
+  {
+   "dow": 5,
+   "hour": 1,
+   "purchases": 1450,
+   "purchases_per_view": 0.005154
+  },
+  {
+   "dow": 5,
+   "hour": 2,
+   "purchases": 3828,
+   "purchases_per_view": 0.007145
+  },
+  {
+   "dow": 5,
+   "hour": 3,
+   "purchases": 8330,
+   "purchases_per_view": 0.011991
+  },
+  {
+   "dow": 5,
+   "hour": 4,
+   "purchases": 11378,
+   "purchases_per_view": 0.014274
+  },
+  {
+   "dow": 5,
+   "hour": 5,
+   "purchases": 13234,
+   "purchases_per_view": 0.015258
+  },
+  {
+   "dow": 5,
+   "hour": 6,
+   "purchases": 13884,
+   "purchases_per_view": 0.015939
+  },
+  {
+   "dow": 5,
+   "hour": 7,
+   "purchases": 14415,
+   "purchases_per_view": 0.015896
+  },
+  {
+   "dow": 5,
+   "hour": 8,
+   "purchases": 14761,
+   "purchases_per_view": 0.015107
+  },
+  {
+   "dow": 5,
+   "hour": 9,
+   "purchases": 15115,
+   "purchases_per_view": 0.015387
+  },
+  {
+   "dow": 5,
+   "hour": 10,
+   "purchases": 14033,
+   "purchases_per_view": 0.01511
+  },
+  {
+   "dow": 5,
+   "hour": 11,
+   "purchases": 13251,
+   "purchases_per_view": 0.014932
+  },
+  {
+   "dow": 5,
+   "hour": 12,
+   "purchases": 11724,
+   "purchases_per_view": 0.013461
+  },
+  {
+   "dow": 5,
+   "hour": 13,
+   "purchases": 11919,
+   "purchases_per_view": 0.012002
+  },
+  {
+   "dow": 5,
+   "hour": 14,
+   "purchases": 11270,
+   "purchases_per_view": 0.010289
+  },
+  {
+   "dow": 5,
+   "hour": 15,
+   "purchases": 10894,
+   "purchases_per_view": 0.009377
+  },
+  {
+   "dow": 5,
+   "hour": 16,
+   "purchases": 10121,
+   "purchases_per_view": 0.0086
+  },
+  {
+   "dow": 5,
+   "hour": 17,
+   "purchases": 8693,
+   "purchases_per_view": 0.007991
+  },
+  {
+   "dow": 5,
+   "hour": 18,
+   "purchases": 6931,
+   "purchases_per_view": 0.007677
+  },
+  {
+   "dow": 5,
+   "hour": 19,
+   "purchases": 4659,
+   "purchases_per_view": 0.006938
+  },
+  {
+   "dow": 5,
+   "hour": 20,
+   "purchases": 2969,
+   "purchases_per_view": 0.007045
+  },
+  {
+   "dow": 5,
+   "hour": 21,
+   "purchases": 1792,
+   "purchases_per_view": 0.007673
+  },
+  {
+   "dow": 5,
+   "hour": 22,
+   "purchases": 1140,
+   "purchases_per_view": 0.008112
+  },
+  {
+   "dow": 5,
+   "hour": 23,
+   "purchases": 790,
+   "purchases_per_view": 0.010527
+  },
+  {
+   "dow": 6,
+   "hour": 0,
+   "purchases": 823,
+   "purchases_per_view": 0.007636
+  },
+  {
+   "dow": 6,
+   "hour": 1,
+   "purchases": 1419,
+   "purchases_per_view": 0.005252
+  },
+  {
+   "dow": 6,
+   "hour": 2,
+   "purchases": 3266,
+   "purchases_per_view": 0.006668
+  },
+  {
+   "dow": 6,
+   "hour": 3,
+   "purchases": 7137,
+   "purchases_per_view": 0.011333
+  },
+  {
+   "dow": 6,
+   "hour": 4,
+   "purchases": 10480,
+   "purchases_per_view": 0.012673
+  },
+  {
+   "dow": 6,
+   "hour": 5,
+   "purchases": 12601,
+   "purchases_per_view": 0.013337
+  },
+  {
+   "dow": 6,
+   "hour": 6,
+   "purchases": 13636,
+   "purchases_per_view": 0.013799
+  },
+  {
+   "dow": 6,
+   "hour": 7,
+   "purchases": 14377,
+   "purchases_per_view": 0.014469
+  },
+  {
+   "dow": 6,
+   "hour": 8,
+   "purchases": 19478,
+   "purchases_per_view": 0.01984
+  },
+  {
+   "dow": 6,
+   "hour": 9,
+   "purchases": 25080,
+   "purchases_per_view": 0.02682
+  },
+  {
+   "dow": 6,
+   "hour": 10,
+   "purchases": 23776,
+   "purchases_per_view": 0.024593
+  },
+  {
+   "dow": 6,
+   "hour": 11,
+   "purchases": 20543,
+   "purchases_per_view": 0.021551
+  },
+  {
+   "dow": 6,
+   "hour": 12,
+   "purchases": 20662,
+   "purchases_per_view": 0.021763
+  },
+  {
+   "dow": 6,
+   "hour": 13,
+   "purchases": 19172,
+   "purchases_per_view": 0.019531
+  },
+  {
+   "dow": 6,
+   "hour": 14,
+   "purchases": 19008,
+   "purchases_per_view": 0.018215
+  },
+  {
+   "dow": 6,
+   "hour": 15,
+   "purchases": 13379,
+   "purchases_per_view": 0.012417
+  },
+  {
+   "dow": 6,
+   "hour": 16,
+   "purchases": 8677,
+   "purchases_per_view": 0.007748
+  },
+  {
+   "dow": 6,
+   "hour": 17,
+   "purchases": 7965,
+   "purchases_per_view": 0.007298
+  },
+  {
+   "dow": 6,
+   "hour": 18,
+   "purchases": 6365,
+   "purchases_per_view": 0.006757
+  },
+  {
+   "dow": 6,
+   "hour": 19,
+   "purchases": 4494,
+   "purchases_per_view": 0.006631
+  },
+  {
+   "dow": 6,
+   "hour": 20,
+   "purchases": 3118,
+   "purchases_per_view": 0.007729
+  },
+  {
+   "dow": 6,
+   "hour": 21,
+   "purchases": 1834,
+   "purchases_per_view": 0.007861
+  },
+  {
+   "dow": 6,
+   "hour": 22,
+   "purchases": 1284,
+   "purchases_per_view": 0.010612
+  },
+  {
+   "dow": 6,
+   "hour": 23,
+   "purchases": 903,
+   "purchases_per_view": 0.009186
+  }
+ ],
+ "top_categories_revenue": [
+  {
+   "category_code": "electronics.smartphone",
+   "revenue": 334871284.980002,
+   "purchases": 720665
+  },
+  {
+   "category_code": "uncategorised",
+   "revenue": 52805443.809998,
+   "purchases": 407643
+  },
+  {
+   "category_code": "electronics.video.tv",
+   "revenue": 20880559.02,
+   "purchases": 51839
+  },
+  {
+   "category_code": "computers.notebook",
+   "revenue": 19658316.96,
+   "purchases": 34023
+  },
+  {
+   "category_code": "electronics.clocks",
+   "revenue": 11371042.72,
+   "purchases": 41143
+  },
+  {
+   "category_code": "appliances.kitchen.washer",
+   "revenue": 10460552.92,
+   "purchases": 35920
+  },
+  {
+   "category_code": "electronics.audio.headphone",
+   "revenue": 9208629.48,
+   "purchases": 71337
+  },
+  {
+   "category_code": "appliances.kitchen.refrigerators",
+   "revenue": 8552734.31,
+   "purchases": 24260
+  },
+  {
+   "category_code": "appliances.environment.vacuum",
+   "revenue": 4478737.03,
+   "purchases": 30571
+  },
+  {
+   "category_code": "electronics.tablet",
+   "revenue": 3131226.79,
+   "purchases": 11741
+  }
+ ],
+ "smartphone_brands": [
+  {
+   "brand": "apple",
+   "views": 7151172,
+   "purchases": 242597,
+   "revenue": 217812073.320016,
+   "purchases_per_view": 0.033924,
+   "median_price": 914.64
+  },
+  {
+   "brand": "samsung",
+   "views": 8079940,
+   "purchases": 304914,
+   "revenue": 80083682.159995,
+   "purchases_per_view": 0.037737,
+   "median_price": 205.43
+  },
+  {
+   "brand": "xiaomi",
+   "views": 5188618,
+   "purchases": 87329,
+   "revenue": 17904390.91,
+   "purchases_per_view": 0.016831,
+   "median_price": 196.12
+  },
+  {
+   "brand": "huawei",
+   "views": 2089356,
+   "purchases": 43518,
+   "revenue": 9253369.38,
+   "purchases_per_view": 0.020828,
+   "median_price": 166.52
+  },
+  {
+   "brand": "oppo",
+   "views": 1203440,
+   "purchases": 25971,
+   "revenue": 5901500.52,
+   "purchases_per_view": 0.021581,
+   "median_price": 179.28
+  },
+  {
+   "brand": "vivo",
+   "views": 259682,
+   "purchases": 3939,
+   "revenue": 1011852.12,
+   "purchases_per_view": 0.015169,
+   "median_price": 231.64
+  },
+  {
+   "brand": "oneplus",
+   "views": 172623,
+   "purchases": 1054,
+   "revenue": 705132.11,
+   "purchases_per_view": 0.006106,
+   "median_price": 734.9
+  },
+  {
+   "brand": "meizu",
+   "views": 346797,
+   "purchases": 3770,
+   "revenue": 480695.78,
+   "purchases_per_view": 0.010871,
+   "median_price": 118.15
+  }
+ ],
+ "smartphone_price_bands": [
+  {
+   "price_band": 0.0,
+   "views": 1004396,
+   "purchases": 23296,
+   "purchases_per_view": 0.023194
+  },
+  {
+   "price_band": 100.0,
+   "views": 6650463,
+   "purchases": 226944,
+   "purchases_per_view": 0.034125
+  },
+  {
+   "price_band": 200.0,
+   "views": 5486018,
+   "purchases": 155415,
+   "purchases_per_view": 0.028329
+  },
+  {
+   "price_band": 300.0,
+   "views": 1987001,
+   "purchases": 42382,
+   "purchases_per_view": 0.02133
+  },
+  {
+   "price_band": 400.0,
+   "views": 1510458,
+   "purchases": 36364,
+   "purchases_per_view": 0.024075
+  },
+  {
+   "price_band": 500.0,
+   "views": 1188668,
+   "purchases": 31897,
+   "purchases_per_view": 0.026834
+  },
+  {
+   "price_band": 600.0,
+   "views": 642733,
+   "purchases": 13039,
+   "purchases_per_view": 0.020287
+  },
+  {
+   "price_band": 700.0,
+   "views": 1810010,
+   "purchases": 46805,
+   "purchases_per_view": 0.025859
+  },
+  {
+   "price_band": 800.0,
+   "views": 378831,
+   "purchases": 8200,
+   "purchases_per_view": 0.021646
+  },
+  {
+   "price_band": 900.0,
+   "views": 1891526,
+   "purchases": 52712,
+   "purchases_per_view": 0.027867
+  },
+  {
+   "price_band": 1000.0,
+   "views": 934460,
+   "purchases": 29069,
+   "purchases_per_view": 0.031108
+  },
+  {
+   "price_band": 1100.0,
+   "views": 265395,
+   "purchases": 5192,
+   "purchases_per_view": 0.019563
+  },
+  {
+   "price_band": 1200.0,
+   "views": 161202,
+   "purchases": 3194,
+   "purchases_per_view": 0.019814
+  },
+  {
+   "price_band": 1300.0,
+   "views": 462695,
+   "purchases": 14905,
+   "purchases_per_view": 0.032213
+  },
+  {
+   "price_band": 1400.0,
+   "views": 333749,
+   "purchases": 11411,
+   "purchases_per_view": 0.03419
+  },
+  {
+   "price_band": 1500.0,
+   "views": 733038,
+   "purchases": 19840,
+   "purchases_per_view": 0.027065
+  }
+ ],
+ "cohorts": [
+  {
+   "cohort": "2019-10-07",
+   "users": 754122,
+   "week_n": 0,
+   "active_share": 1.0
+  },
+  {
+   "cohort": "2019-10-07",
+   "users": 754122,
+   "week_n": 1,
+   "active_share": 0.271553
+  },
+  {
+   "cohort": "2019-10-07",
+   "users": 754122,
+   "week_n": 2,
+   "active_share": 0.221019
+  },
+  {
+   "cohort": "2019-10-07",
+   "users": 754122,
+   "week_n": 3,
+   "active_share": 0.203905
+  },
+  {
+   "cohort": "2019-10-07",
+   "users": 754122,
+   "week_n": 4,
+   "active_share": 0.236141
+  },
+  {
+   "cohort": "2019-10-07",
+   "users": 754122,
+   "week_n": 5,
+   "active_share": 0.259747
+  },
+  {
+   "cohort": "2019-10-07",
+   "users": 754122,
+   "week_n": 6,
+   "active_share": 0.186161
+  },
+  {
+   "cohort": "2019-10-07",
+   "users": 754122,
+   "week_n": 7,
+   "active_share": 0.16517
+  },
+  {
+   "cohort": "2019-10-14",
+   "users": 617693,
+   "week_n": 0,
+   "active_share": 1.0
+  },
+  {
+   "cohort": "2019-10-14",
+   "users": 617693,
+   "week_n": 1,
+   "active_share": 0.224162
+  },
+  {
+   "cohort": "2019-10-14",
+   "users": 617693,
+   "week_n": 2,
+   "active_share": 0.184245
+  },
+  {
+   "cohort": "2019-10-14",
+   "users": 617693,
+   "week_n": 3,
+   "active_share": 0.208924
+  },
+  {
+   "cohort": "2019-10-14",
+   "users": 617693,
+   "week_n": 4,
+   "active_share": 0.230232
+  },
+  {
+   "cohort": "2019-10-14",
+   "users": 617693,
+   "week_n": 5,
+   "active_share": 0.162791
+  },
+  {
+   "cohort": "2019-10-14",
+   "users": 617693,
+   "week_n": 6,
+   "active_share": 0.140332
+  },
+  {
+   "cohort": "2019-10-21",
+   "users": 548026,
+   "week_n": 0,
+   "active_share": 1.0
+  },
+  {
+   "cohort": "2019-10-21",
+   "users": 548026,
+   "week_n": 1,
+   "active_share": 0.188588
+  },
+  {
+   "cohort": "2019-10-21",
+   "users": 548026,
+   "week_n": 2,
+   "active_share": 0.185093
+  },
+  {
+   "cohort": "2019-10-21",
+   "users": 548026,
+   "week_n": 3,
+   "active_share": 0.192206
+  },
+  {
+   "cohort": "2019-10-21",
+   "users": 548026,
+   "week_n": 4,
+   "active_share": 0.143533
+  },
+  {
+   "cohort": "2019-10-21",
+   "users": 548026,
+   "week_n": 5,
+   "active_share": 0.119387
+  },
+  {
+   "cohort": "2019-10-28",
+   "users": 462855,
+   "week_n": 0,
+   "active_share": 1.0
+  },
+  {
+   "cohort": "2019-10-28",
+   "users": 462855,
+   "week_n": 1,
+   "active_share": 0.220069
+  },
+  {
+   "cohort": "2019-10-28",
+   "users": 462855,
+   "week_n": 2,
+   "active_share": 0.207605
+  },
+  {
+   "cohort": "2019-10-28",
+   "users": 462855,
+   "week_n": 3,
+   "active_share": 0.146199
+  },
+  {
+   "cohort": "2019-10-28",
+   "users": 462855,
+   "week_n": 4,
+   "active_share": 0.121569
+  },
+  {
+   "cohort": "2019-11-04",
+   "users": 568899,
+   "week_n": 0,
+   "active_share": 1.0
+  },
+  {
+   "cohort": "2019-11-04",
+   "users": 568899,
+   "week_n": 1,
+   "active_share": 0.251827
+  },
+  {
+   "cohort": "2019-11-04",
+   "users": 568899,
+   "week_n": 2,
+   "active_share": 0.15968
+  },
+  {
+   "cohort": "2019-11-04",
+   "users": 568899,
+   "week_n": 3,
+   "active_share": 0.127676
+  },
+  {
+   "cohort": "2019-11-11",
+   "users": 585552,
+   "week_n": 0,
+   "active_share": 1.0
+  },
+  {
+   "cohort": "2019-11-11",
+   "users": 585552,
+   "week_n": 1,
+   "active_share": 0.210236
+  },
+  {
+   "cohort": "2019-11-11",
+   "users": 585552,
+   "week_n": 2,
+   "active_share": 0.149908
+  },
+  {
+   "cohort": "2019-11-18",
+   "users": 551383,
+   "week_n": 0,
+   "active_share": 1.0
+  },
+  {
+   "cohort": "2019-11-18",
+   "users": 551383,
+   "week_n": 1,
+   "active_share": 0.153142
+  },
+  {
+   "cohort": "2019-11-25",
+   "users": 376408,
+   "week_n": 0,
+   "active_share": 1.0
+  }
+ ],
+ "buyers": {
+  "buyers": 697470,
+  "repeat_share": 0.299924,
+  "repeat_revenue_share": 0.663662,
+  "median_spend": 257.15
+ }
+}
